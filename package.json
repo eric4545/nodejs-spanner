@@ -79,7 +79,7 @@
     "methmeth": "^1.1.0",
     "modelo": "^4.2.0",
     "p-queue": "^2.3.0",
-    "protobufjs": "^6.8.0",
+    "protobufjs": "6.8.4",
     "safe-buffer": "^5.1.1",
     "split-array-stream": "^1.0.0",
     "stack-trace": "0.0.10",
